@@ -31,20 +31,13 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'tim.fenghegao@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Gfhessen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/fenghe-gao
+
 
 interests:
   - Artificial Intelligence
@@ -52,60 +45,41 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MASTER OF COMMERCE
+    institution: The University of Sydney
+    date_start: 2021-03-01
+    date_end: 2022-07-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      WAM: 75.1/100
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
+      - Financial Time Series and Forecasting
+      - Predictive Analytics
+      - Machine Learning
+  - area: BACHELOR OF COMMERCE
+    institution: The University of Sydney
+    date_start: 2017-03-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+      WAM: 72.3/100
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Majors included:
+      - Finance
+      - Banking
+      - Business Analytics
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Data Analytics Associate
+    company_name: PwC
+    company_url: https://www.pwc.com.au/
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2022-12-01
+    date_end: 2024-04-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Designe and documente Alteryx workflows for data cleansing, transformation, and modelling.
+      - Participate in client meetings to gather feedback and adjust project scope.
+      - Identify and resolve defects in database.
+      - Develop Power BI and Qlik Sense dashboards for management decisions.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -122,7 +96,7 @@ skills:
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 60
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -132,22 +106,24 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Snowboarding
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: snowboard
+      - name: Cooking
         description: ''
-        percent: 80
-        icon: camera
+        percent: 100
+        icon: chef
 
 languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: Japanese
+    percent: 35
+  - name: German
+    percent: 25   
 
 # Awards.
 #   Add/remove as many awards below as you like.
