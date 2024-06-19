@@ -109,11 +109,11 @@ skills:
       - name: Snowboarding
         description: ''
         percent: 100
-        icon: snowboard
+        icon: snow
       - name: Cooking
         description: ''
         percent: 100
-        icon: chef
+        icon: fas
 
 languages:
   - name: English
